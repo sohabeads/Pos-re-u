@@ -1,0 +1,7 @@
+{
+  "name": "QuickPOS - WhatsApp Receipts",
+  "description": "A mobile-first Point of Sale application that allows businesses to manage products, record sales, and send professional HTML receipts directly via WhatsApp with JPG download options.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
